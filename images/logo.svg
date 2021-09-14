@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2250" height="750" viewBox="0 0 2250 750">
+  <defs>
+    <clipPath id="clip-logo">
+      <rect width="2250" height="750"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <text id="YOSHIDA_MOE" data-name="YOSHIDA MOE" transform="translate(827 447)" fill="#674935" font-size="200" font-family="MS-PMincho, MS PMincho" style="mix-blend-mode: multiply;isolation: isolate"><tspan x="0" y="0">YOSHIDA MOE</tspan></text>
+    <g id="グループ_1" data-name="グループ 1" transform="translate(131.5 125)">
+      <circle id="楕円形_1" data-name="楕円形 1" cx="125" cy="125" r="125" transform="translate(118.5)" fill="#aacf53"/>
+      <circle id="楕円形_2" data-name="楕円形 2" cx="125" cy="125" r="125" transform="translate(237 86)" fill="#aacf53"/>
+      <circle id="楕円形_3" data-name="楕円形 3" cx="125" cy="125" r="125" transform="translate(191 226)" fill="#aacf53"/>
+      <circle id="楕円形_4" data-name="楕円形 4" cx="125" cy="125" r="125" transform="translate(46 226)" fill="#aacf53"/>
+      <circle id="楕円形_5" data-name="楕円形 5" cx="125" cy="125" r="125" transform="translate(0 86)" fill="#aacf53"/>
+    </g>
+    <g id="グループ_7" data-name="グループ 7">
+      <g id="グループ_3" data-name="グループ 3">
+        <line id="線_1" data-name="線 1" y2="76" transform="translate(375 298)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2" data-name="線 2" y2="76" transform="matrix(0.309, 0.951, -0.951, 0.309, 447.28, 351.5)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-2" data-name="線 2" y2="76" transform="matrix(-0.809, 0.588, -0.588, -0.809, 418.672, 435.486)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-3" data-name="線 2" y1="76" transform="matrix(0.809, 0.588, -0.588, 0.809, 375.672, 374)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-4" data-name="線 2" y1="76" transform="matrix(-0.309, 0.951, -0.951, -0.309, 375.28, 374.985)" fill="none" stroke="#dcda58" stroke-width="3"/>
+      </g>
+      <g id="グループ_2" data-name="グループ 2" transform="translate(0 -1)">
+        <circle id="楕円形_7" data-name="楕円形 7" cx="8" cy="8" r="8" transform="translate(367 291)" fill="#dcda58"/>
+        <circle id="楕円形_8" data-name="楕円形 8" cx="8" cy="8" r="8" transform="translate(438 345)" fill="#dcda58"/>
+        <circle id="楕円形_9" data-name="楕円形 9" cx="8" cy="8" r="8" transform="translate(410 429)" fill="#dcda58"/>
+        <circle id="楕円形_10" data-name="楕円形 10" cx="8" cy="8" r="8" transform="translate(324 429)" fill="#dcda58"/>
+        <circle id="楕円形_11" data-name="楕円形 11" cx="8" cy="8" r="8" transform="translate(296 345)" fill="#dcda58"/>
+      </g>
+    </g>
+    <g id="グループ_6" data-name="グループ 6">
+      <g id="グループ_4" data-name="グループ 4" transform="matrix(0.809, 0.588, -0.588, 0.809, 292.924, -149.138)">
+        <circle id="楕円形_7-2" data-name="楕円形 7" cx="8" cy="8" r="8" transform="translate(367 291)" fill="#dcda58"/>
+        <circle id="楕円形_8-2" data-name="楕円形 8" cx="8" cy="8" r="8" transform="translate(438 345)" fill="#dcda58"/>
+        <circle id="楕円形_9-2" data-name="楕円形 9" cx="8" cy="8" r="8" transform="translate(410 429)" fill="#dcda58"/>
+        <circle id="楕円形_10-2" data-name="楕円形 10" cx="8" cy="8" r="8" transform="translate(324 429)" fill="#dcda58"/>
+        <circle id="楕円形_11-2" data-name="楕円形 11" cx="8" cy="8" r="8" transform="translate(296 345)" fill="#dcda58"/>
+      </g>
+      <g id="グループ_5" data-name="グループ 5" transform="matrix(0.809, 0.588, -0.588, 0.809, 292.211, -148.46)">
+        <line id="線_1-2" data-name="線 1" y2="76" transform="translate(375 298)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-5" data-name="線 2" y2="76" transform="matrix(0.309, 0.951, -0.951, 0.309, 447.28, 351.5)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-6" data-name="線 2" y2="76" transform="matrix(-0.809, 0.588, -0.588, -0.809, 418.672, 435.486)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-7" data-name="線 2" y1="76" transform="matrix(0.809, 0.588, -0.588, 0.809, 375.672, 374)" fill="none" stroke="#dcda58" stroke-width="3"/>
+        <line id="線_2-8" data-name="線 2" y1="76" transform="matrix(-0.309, 0.951, -0.951, -0.309, 375.28, 374.985)" fill="none" stroke="#dcda58" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
