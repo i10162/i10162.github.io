@@ -135,11 +135,14 @@ dd {
 td {
     padding: 0 10px;
 }
-.home-content a {
+.about-content a {
     text-decoration: none;
     color: #e14443;
     margin-left: 20px;
     font-size: 0.8rem;
+}
+.about-content img {
+    margin: auto;
 }
 
 /* WORKS
