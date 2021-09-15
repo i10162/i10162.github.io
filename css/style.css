@@ -23,6 +23,9 @@ img {
     margin: 0 auto;
     padding: 0 4%;
 }
+.item {
+    margin: auto;
+}
 
 /* 大きな背景画像 */
 .big-bg {
@@ -140,9 +143,6 @@ td {
     color: #e14443;
     margin-left: 20px;
     font-size: 0.8rem;
-}
-.about-content img {
-    margin: auto;
 }
 
 /* WORKS
