@@ -156,6 +156,163 @@ td {
     font-size: 0.8rem;
 }
 
+/* CSS
+------------------------------- */
+.square {
+    width: 300px;
+    height: 300px;
+}
+.square div {
+    position:absolute;
+}
+.sns-button {
+    width: 200px;
+    height: 200px;
+    margin: 50px 50px;
+}
+.sns-button-bg {
+    width: 90%;
+    height: 90%;
+    margin: 5%;
+    overflow: hidden;
+}
+.white {
+    background:#ffffff;
+}
+.circle {
+    border-radius: 50%;
+}
+
+/* facebook */
+.fb_vertical {
+    width: 28px;
+    height: 117.5px;
+    margin: 62.5px 77px;
+}
+.fb_c {
+    width: 75px;
+    height: 56px;
+    margin: 35px 77px;
+}
+.fb_c-hide {
+    width: 30px;
+    height: 30px;
+    margin: 58px 105px;
+}
+.fb_hide1 {
+    width: 30px;
+    height: 60px;
+    margin: 35px 130px;
+}
+.fb_hide2 {
+    width: 40px;
+    height: 20px;
+    margin: 73px 105px;
+}
+.fb_hide3 {
+    width: 10px;
+    height: 20px;
+    margin: 58px 120px;
+}
+.fb_horizontal {
+    width: 72px;
+    margin: 90px 54px;
+    border-top: 26px solid #fff;
+    border-right: 4px solid #1877f2;
+}
+.fb_color {
+    background: #1877f2;
+}
+
+/* twitter */
+.tw_head {
+    margin: 28.5% 51.5%;
+}
+.tw_stomach {
+    margin: 7.7% 7%;
+}
+.tw_tail-hide {
+    margin: 22.5% 1.5%;
+}
+.tw_upper-beak {
+    margin: 14% 56%;
+}
+.tw_upper-beak-hide {
+    margin: -15.5% 43%;
+}
+.tw_lower-beak {
+    margin: -3.5% 37%;
+}
+.tw_lower-beak-hide {
+    margin: -12% 47%;
+}
+.tw_wing1 {
+    margin: 42% 29%;
+}
+.tw_wing1-hide {
+    margin: 34% 17%;
+}
+.tw_wing2 {
+    margin: 33.5% 25%;
+}
+.tw_wing2-hide {
+    margin: 23% 19%;
+}
+.tw_wing3 {
+    margin: 25%;
+}
+.tw_wing3-hide {
+    margin: -25% 19%;
+}
+.tw_fill {
+    margin: 35%;
+}
+.tw_hide {
+    margin: 5% 0;
+}
+.tw_small{
+    width: 24%;
+    height: 24%;
+}
+.tw_midium {
+    width: 48.5%;
+    height: 48.5%;
+}
+.tw_large {
+    width: 68%;
+    height: 68%;
+}
+.tw_color {
+    background: #55acee;
+}
+
+/* neumorphism */
+.neumorphism-convex {
+    background: #e0e5ec;
+    box-shadow:
+        -10px -10px 20px white,
+        10px 10px 20px #a3b1c6;
+    transition: all 50ms 0s ease;
+}
+.neumorphism-convex:hover {
+    box-shadow:
+        -15px -15px 20px white,
+        15px 15px 20px #a3b1c6;
+}
+.neumorphism-convex:active {
+    box-shadow:
+        -5px -5px 10px white,
+        5px 5px 10px #a3b1c6;
+}
+.neu-button {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+}
+.neu_color {
+    background: #ececf0
+}
+
 /* ILLUSTRATION
 ------------------------------- */
 #illustration .page-title {
